@@ -87,19 +87,19 @@ new_spartamarket/
 마켓로서 사용자가 제일 처음 들어왔을 때,
 가장 필요로하는 기능인 물품목록을 띄워놓는 것이 좋다고 판단하여, 
 홈페이지라는 것을 따로 만들기 보다는 현재 사이트에 올라와있는 페이지를 보여주었습니다.
-![홈페이지](readme_image\01_홈페이지.png)
+![홈페이지](https://github.com/KUC23/new_spartamarket/blob/main/readme_image/01_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 ##### 프로필 페이지
 - 사용자의 프로필 페이지입니다.
 기본적으로 자신이 등록한 상품의 목록을 볼 수 있으며,
 자신이 찜한 목록과 팔로우 수 등을 확인할 수 있게 구현하였습니다.
-![프로필페이지](readme_image\프로필페이지.png)
+![프로필페이지](https://github.com/KUC23/new_spartamarket/blob/main/readme_image/%ED%94%84%EB%A1%9C%ED%95%84%ED%8E%98%EC%9D%B4%EC%A7%80.png)
 
 ##### 물품 상세목록
 - 물품의 상세목록입니다.
 특별한 기능은 없지만, 물품의 상세목록을 볼 수 있는 페이지입니다. 
 
-![물품상세목록](readme_image\02_물품상세목록.png)
+![물품상세목록](https://github.com/KUC23/new_spartamarket/blob/main/readme_image/02_%EB%AC%BC%ED%92%88%EC%83%81%EC%84%B8%EB%AA%A9%EB%A1%9D.png)
 ---
 
 ## 문제 해결 및 배운 점
