@@ -48,7 +48,7 @@ def logout(request):
         # 로그 아웃 동작후
         auth_logout(request)
     # index로 돌아감
-    return redirect('/products/index')
+    return redirect('/products/')
 
 
 
@@ -65,7 +65,7 @@ def signup(request):
         if form.is_valid():
             user = form.save()
             auth_login(request, user)
-            return redirect('/products/index')
+            return redirect('/products/')
     else:
         form = CustomUserCreationForm()
     context = {'form': form}

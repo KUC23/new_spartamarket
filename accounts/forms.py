@@ -36,6 +36,6 @@ class CustomUserChangeForm(UserChangeForm):
         if self.fields.get("password"):
             # 아래와 같이 도움을 주는 문구를 띄울께께
             password_help_text = (
-                '<a href="{}">여기</a>'"를 누르기면 비밀번호 변경이 가능합니다"
+                '<a href="{}"><button>여기</button></a>'"를 누르기면 비밀번호 변경이 가능합니다"
             ).format(f"{reverse('accounts:change_password')}")
             self.fields["password"].help_text = password_help_text

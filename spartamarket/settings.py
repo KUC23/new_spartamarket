@@ -123,23 +123,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 83802037d066b8f0f75b24a1ed307fc7bfc71b67
 # 정적인 파일을 업로드하는 곳
 # STATIC_URL - 경로를 잡아주는 url
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [BASE_DIR / 'static']
 STATIC_ROOT = BASE_DIR / 'staticfiles'
-<<<<<<< HEAD
-=======
 
-# 유저가 업로드한 파일
-# Media files
-MEDIA_URL = "/media/"
-MEDIA_ROOT = BASE_DIR / "media"
->>>>>>> 83802037d066b8f0f75b24a1ed307fc7bfc71b67
 
 # 유저가 업로드한 파일
 # Media files
