@@ -78,7 +78,7 @@ new_spartamarket/
 └── manage.py    # Django 관리 스크립트
 ```
 ## ERD
-![ERD](readme_image\django_spartamarket.png)
+![ERD](https://github.com/KUC23/new_spartamarket/blob/main/readme_image/django_spartamarket.png)
 
 ---
 ## 웹페이지 구동 이미지
